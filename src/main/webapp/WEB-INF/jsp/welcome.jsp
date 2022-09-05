@@ -10,6 +10,6 @@
             <spring:url value="/resources/images/pets.png" htmlEscape="true" var="petsImage"/>
             <img class="img-responsive" alt="A cat and a dog" src="${petsImage}"/>
         </div>
-        <video src="/resources/images/video.mp4" controls muted autoplay loop></video>
+        <video src="d35zdcyhuaoppz.cloudfront.net/test.mp4" controls muted autoplay loop></video>
     </div>
 </petclinic:layout>
