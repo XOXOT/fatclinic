@@ -10,6 +10,5 @@
             <spring:url value="/resources/images/pets.png" htmlEscape="true" var="petsImage"/>
             <img class="img-responsive" alt="A cat and a dog" src="${petsImage}"/>
         </div>
-        <video src="https://storage.googleapis.com/gogle-burket/video.mp4" controls="controls" width="500" height="300" autoplay="autoplay"></video>
     </div>
 </petclinic:layout>
