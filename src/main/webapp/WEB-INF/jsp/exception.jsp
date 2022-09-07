@@ -4,11 +4,10 @@
 
 <petclinic:layout pageName="error">
 
-    <spring:url value="/resources/images/error.png" var="petsImage"/>
-    <img src="${petsImage}" alt="A cat and a dog"/> 
+    <video src="https://storage.googleapis.com/gogle-burket/video.mp4" controls="controls" width="700" height="400" autoplay="autoplay"></video>
     <br>
     
-    <h2>Do you want to be a pig...?</h2>
+    <h2>You can do it!</h2>
 
 
 </petclinic:layout>
