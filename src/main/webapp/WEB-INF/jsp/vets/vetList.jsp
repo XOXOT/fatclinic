@@ -5,14 +5,14 @@
 <%@ taglib prefix="petclinic" tagdir="/WEB-INF/tags" %>
 
 <petclinic:layout pageName="vets">
-    <h2 id="veterinarians">Veterinarians</h2>
+    <h2 id="veterinarians">GYM Info</h2>
 
     <div class="row">
         <table id="vetsTable" class="table table-striped" aria-describedby="veterinarians">
             <thead>
             <tr>
                 <th scope="col">Name</th>
-                <th scope="col">Specialties</th>
+                <th scope="col">Location</th>
             </tr>
             </thead>
             <tbody>
