@@ -11,6 +11,6 @@
             <img class="img-responsive" alt="A cat and a dog" src="${petsImage}"/>
         </div>
         <h2>Fatclinic goods</h2>
-        <img src="https://storage.googleapis.com/gogle-burket/fatgoods.png" width="1090", height="727">
+        <img src="https://storage.googleapis.com/gogle-data-burket/fatgoods.png" width="1090", height="727">
     </div>
 </petclinic:layout>
